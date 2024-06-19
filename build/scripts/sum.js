@@ -1,0 +1,1 @@
+function ಠ_ಠ935(o,n){return o+n}console.log(ಠ_ಠ935(10,10));
